@@ -73,13 +73,3 @@ This is my first deployed fullstack application using the MERN stack. As I progr
 - [Unsplash](https://unsplash.com/) - This site is an endless reservior of images. I used this for my product images, using google image to find the names of the sneakers in the images.
 - [Stack Overflow](https://stackoverflow.com) - As always, stackoverflow is the place I go whenever I need any help.
 
-
-
-
-
-## Author
-
-- Github - [Hikmah Yousuph](https://github.com/Hikmahx)
-- Frontend Mentor - [@Hikmahx](https://www.frontendmentor.io/profile/Hikmahx)
-- Email - [hikmayousuph@gmail.com](hikmayousuph@gmail.com)
-- LinkedIn - [Hikmah Yousuph](linkedin.com/in/hikmah-yousuph-449467204/)
